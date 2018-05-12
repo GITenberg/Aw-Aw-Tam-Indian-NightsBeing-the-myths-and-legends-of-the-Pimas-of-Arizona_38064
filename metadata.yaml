@@ -1,0 +1,39 @@
+_repo: Aw-Aw-Tam-Indian-NightsBeing-the-myths-and-legends-of-the-Pimas-of-Arizona_38064
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wood, Edward Hubert
+    gutenberg_agent_id: '39229'
+    url: http://www.gutenberg.org/2009/agents/39229
+covers:
+- cover_type: archival
+  image_path: 38064-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Lloyd, J. Wm. (John William)
+    aliases:
+    - Lloyd, John William
+    - Lloyd, J. William (John William)
+    birthdate: 1857
+    deathdate: 1940
+    gutenberg_agent_id: '39228'
+    url: http://www.gutenberg.org/2009/agents/39228
+  - agent_name: Comalk-Hawk-Kih
+    gutenberg_agent_id: '44235'
+    url: http://www.gutenberg.org/2009/agents/44235
+description: ''
+gutenberg_issued: '2011-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38064'
+  lccn: '11015554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pima Indians -- Folklore'
+- !lcsh 'Folklore -- Arizona'
+- !lcc 'E011'
+title: 'Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas of Arizona'
+url: http://www.gutenberg.org/ebooks/38064
